@@ -1,0 +1,8 @@
+
+.vscode/launch.json
+.ipynb_checkpoints/data_process-checkpoint.ipynb
+__pycache__/utils_qa.cpython-310.pyc
+ckpt/
+data_process.ipynb
+data/.ipynb_checkpoints/
+data/ctx_train.csv

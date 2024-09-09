@@ -1,0 +1,11 @@
+{
+  "I-time": 0,
+  "B-time": 1,
+  "I-date": 2,
+  "O": 3,
+  "I-people": 4,
+  "B-date": 5,
+  "B-people": 6,
+  "B-last_name": 7,
+  "B-first_name": 8
+}

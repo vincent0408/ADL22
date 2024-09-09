@@ -1,0 +1,12 @@
+__pycache__/
+glove*
+environment.yml
+*.ipynb
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+ckpt/
+*.csv
+v*/
+mdl.txt
+ADL_HW1.zip

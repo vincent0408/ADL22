@@ -1,0 +1,7 @@
+ckpt/pytorch_model.bin
+data/train.jsonl
+__pycache__/*
+.vscode/*
+.DS_Store
+tw_rouge/*
+.lock
